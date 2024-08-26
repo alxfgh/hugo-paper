@@ -1,3 +1,8 @@
+.max-w-3xl {
+  max-width: 60rem;
+}
+
+
 /*
  * Paper
  * A simple, clean, flexible Hugo theme
@@ -454,7 +459,7 @@ video {
 }
 
 :root {
-  --w: calc(680px + 32px * 2);
+  --w: calc(680px + 102px * 2);
 }
 
 body {
